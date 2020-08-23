@@ -1,6 +1,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=test-okome&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=test-kome" />
-</a>
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=test-okome&layout=compact)
